@@ -1,0 +1,102 @@
+﻿Vārds: Aleksandrs
+Uzvards: Mirošņikovs
+
+Labs jautājums "ko gribu sasniegt?". Gribu vispār uzreiz pateikt paldies, par iespēju uztaisīt tādu uzdevumu,
+jo pateicoties tam, uzzināju daudz ko vel vairāk. Runājot par manu pieredzi, tā diemžēl iekļaujās tikai 4 menešos(kursu ilgums - 4 mēneši)
+un nekad neesmu saskaries ar programmēšanu vai web dizainu vispār. Tomēr, kursi daudz ko iedeva un paradīja, kā vispār notiek kāda web projekta
+izveide.
+Runājot par sasniegšanu, pirmkārt protams gribētu attistīties tālāk šajā jomā, iegūt jaunas zināšanas un vispār saistīt savu dzīvi ar IT.
+Otrkārt, protams, iespēja nopelnīt labu naudu arī atstāj ļoti labu ietekmi, lai nodarboties ar progrmmēšanu)). 
+
+
+
+
+
+FAKTISKĀ ADRESE: Bruņinieku iela 72a, 2.stāvs, Rīga, LV-1009
+                BANKA: AS Swedbank  |  BANKAS KONTS: LV96HABA0551034442989
+TĀLRUNIS: +371 27677399  |  E-PASTS: info@sem.lv  |  MĀJAS LAPA: www.sem.lv
+
+
+1. Prakses kvalifikācijas uzdevums
+
+
+Failu struktūra
+
+
+1. Izveido mapi ar projekta nosaukumu "Sem.lv_test_Vards_Uzvards".
+2. Izveido galveno failu index.html.
+3. Izveido mapi ar nosaukumu "assets".
+4. Mapē "assets" izveido:
+   4.1. mapi ar nosaukumu css;
+   4.2. mapi ar nosaukumu img;
+   4.3. mapi ar nosaukumu fonts;
+   4.4. mapi ar nosaukumu js. 
+5. Mapē "css" izveido:
+   5.1. failu ar nosaukumu "style.css", kur rakstīsi css.
+6. Mapē "img" saglabā visus nepieciešamos attēlus.
+7. Mapē "fonts" saglabā visus nepieciešamos font failus,.
+8. Mapē "js" izveido:
+   8.1. failu ar nosaukumu "theme.js", kur rakstīsi javascript kodu.
+
+
+Koda rakstīšana
+
+
+Desktop
+
+
+1. "index.html" failā izveido "Default Markup".
+2. Pieslēdz visus vajadzīgos style un script failus.
+3. Izveido fiksēto header ar augstumu 80px, kurš lapas scroll laikā vienmēr būs lapas augšā. 
+4. Izveido footer tā, lai tas būtu fiksēts ekrāna apakšā, ar Copyright tekstu pa vidu.  
+5. Izveido lapā trīs sekcijas ar nosaukumu "Sākums", "Par mums", "Galerija", "Kontakti". Sekcijā vajadzīgs teksts, kurš aizņem vismaz  2/3 no visa ekrāna. Vēlams īstu tekstu, bet var arī izmantot "lorem ipsum". Ieliec vismaz divas saites (link) katrā sekcijā. Vienai ir jāatver jauno saiti tajā pašā ekrāna, otrai - jaunā cilnē.
+   5.1. Virsraksts H1 ar izmēru 60px, ar font-family "Gotham", bold.
+   5.2. Teksts ar izmēru 15px, ar font-family "Gotham", 400. 
+6. Ieliec sekcijas nosaukumus izvēlnē, kuru izvieto header.
+7. Veido tā, lai klikšķinot uz izvēlnes punktiem notiktu scroll līdz attiecīgai sekcijai.
+8  Sadaļā "Par mums" ievieto attēlu no kreisās puses un tekstu - no labās, kas ir centrēts no augšas un no lejas attiecībā pret attēlu, pēc tam ievieto tekstu no kreisās un attēlu - no labās puses.
+9. Sekcijā "Galerija" ievieto trīs attēlus vienu aiz otra vienā rindā ar nosaukumiem, kurus izvieto centrēti zem attēla, ar font-family "Gotham", ar fonta izmēru 10px, Italic. 
+  9.1. Uzbraucot ar peli, attēliem nedaudz jāpalielinās. 
+10. Sekcijā "Kontakti" ievieto karti ar adresi "Doma laukums 2, Centra rajons, Rīga" kur ir marker.
+11. Karti pozicionē bloka vidū no visam četram pusēm. Attiecīgi ir jācentrē no augšas, apakšas, pa labi un pa kreisi.
+12. Zem kartes ieliec mobilā tālruņa numuru, uz kuru nospiežot, uzreiz var zvanīt, kā arī epastu, uz kuru nospiežot, var sākt rakstīt.
+13. Izveido fiksēto anchor link, uz kuru nospiežot, neskatoties uz to, kurā lapas vietā atrodas lietotājs, lapa tiek vienmērīgi skrollēta uz augšu.
+    13.1. Tiek parādīta, ja pakustina ekrānu;
+    13.2. Jāapstājas PIRMS footer. 
+14. Ieliec lapas favicon.
+
+
+
+
+Responsive mobile 
+
+
+1. Mobile versijā visiem blokiem ir jāizvietojas vienā kolonnā. Blokiem, kuros ir attēli, attēliem ir jābūt augšā, un tekstam - apakšā!
+2. Izvēlnei ir jāpārvēršas uz Fullscreen Overlay Navigation Menu. Izvēlnes responsivitāte arī tiks vērtēta.
+ 
+
+
+Share 
+
+
+1. Izveido atvērto git repository.
+2. Tur ieliec testa uzdevumu ar README.me faila esamību, kur iekšā uzraksti savu vārdu, uzvārdu, ko tieši gribi sasniegt programmēšanā, kā arī - kāpēc izvēlējies tieši programmēšanu. Ir jābūt instrukcijai ar detalizētu aprakstu, kā palaist projektu, ja tiek izmantota neobligāta prasība par SCSS izmantošanu. 
+3. Izveido linku "GitHub Pages", lai uz to nospiežot, varētu redzēt pašu lapu. 
+4. Atsūti "GitHub Pages" linku, kā arī linku uz atvērto git repository. 
+
+
+
+
+--- Nav obligāti, bet tiek uzskatīts par priekšrocību--- 
+
+
+SCSS izmantošana tiks vērtēta kā priekšrocība.
+Izveido mapi "resource" , kurā tiks izveidota: 
+   4.1. mape ar nosaukumu scss;
+     4.1.1. Iekšā izveido failu style.scss.
+
+
+Pēc scss kompilēšanas, visam izejas failam ir jābūt "assets->css->style.css" 
+
+
+Piefikse uzdevuma kopejo izpildes laiku.
