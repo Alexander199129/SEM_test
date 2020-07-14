@@ -255,4 +255,7 @@ span {
         flex-direction: column; 
         text-align: center;   
     }
+    .map {
+        width: 50%;
+    }
  }
